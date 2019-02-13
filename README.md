@@ -1,7 +1,7 @@
 # Preact app boilerplate
 
-#Note
-You can get clientId (for _auth.js_ file, line 16) when you create free account at [Okta](https://developer.okta.com/signup).
+# Note
+You can get **{clientId}** (for _auth.js_ file, line 16) when you create free account at [Okta](https://developer.okta.com/signup).
 
 ## CLI Commands
 
