@@ -1,5 +1,7 @@
 # Preact app boilerplate
 
+[![MIT License](https://img.shields.io/npm/l/per-env.svg)](http://opensource.org/licenses/MIT)
+
 # Note
 You can get **{clientId}** (for _auth.js_ file, line 16) when you create free account at [Okta](https://developer.okta.com/signup).
 
